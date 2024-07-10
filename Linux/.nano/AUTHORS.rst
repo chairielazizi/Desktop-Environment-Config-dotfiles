@@ -1,0 +1,1 @@
+../../../../.nano/AUTHORS.rst
